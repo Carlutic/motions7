@@ -1,0 +1,32 @@
+[
+    {
+        "name": "腰振2020",
+        "repo": "motions7",
+        "slug": "腰振2020",
+        "modelMotionFile": "tracks/腰振2020/崢怳傝僟儞僗2020instillation儌乕僔儑儞.vmd",
+        "audioPlayerFile": "tracks/腰振2020/12. Basshunter - I'm Your Bass Creator.wav"
+    },
+    {
+        "name": "虎视眈眈",
+        "repo": "motions7",
+        "slug": "虎视眈眈",
+        "modelMotionFile": "tracks/虎视眈眈/虎视眈眈.vmd",
+        "camMotionFile": "tracks/虎视眈眈/虎視眈々 一人用カメラ.vmd",
+        "audioPlayerFile": "tracks/虎视眈眈/VanKu - 虎視眈々.wav"
+    },
+    {
+        "name": "誘惑系",
+        "repo": "motions7",
+        "slug": "誘惑系",
+        "modelMotionFile": "tracks/誘惑系/僷僷儔僽傾僺乕儖僟儞僗儌乕僔儑儞.vmd",
+        "audioPlayerFile": "tracks/誘惑系/僷僷儔僽傾僺乕儖僟儞僗.wav"
+    },
+    {
+        "name": "魅惑",
+        "repo": "motions7",
+        "slug": "魅惑",
+        "modelMotionFile": "tracks/魅惑/魅惑ヒップダンスモーション＆カメラ.vmd",
+        "camMotionFile": "tracks/魅惑/魅惑ヒップダンスモーション＆カメラ cam.vmd",
+        "audioPlayerFile": "tracks/魅惑/Alex-Gaudino-Destination-Calabria-_Radio-Edit_.wav"
+    }
+]
